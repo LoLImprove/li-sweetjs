@@ -1,4 +1,4 @@
-li-sweetjs
+LoL Improve Sweet-js
 ==========
 
 A set of sweet js macros used in LoL Improve *.sjs files
